@@ -26,6 +26,8 @@ I'm a web designer and web developer from France (vanilla JS, VueJS and WordPres
 ### My latest blog posts ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Les impacts environnementaux du numérique](https://beabot.fr/eco-conception/La-consommation-energetique-du-numerique)
+- [Qu’est-ce que l’éco-conception web](https://beabot.fr/eco-conception/L-eco-conception-web)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
