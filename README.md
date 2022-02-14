@@ -23,7 +23,7 @@ I'm a web designer and web developer from France (vanilla JS, VueJS and WordPres
 - 📖 I'm currently learning React and italian...
 
 
-### My latest blog posts ✍️
+### My latest blog posts (in french) ✍️
 
 <!-- BLOG-POST-LIST:START -->
 - [Les impacts environnementaux du numérique](https://beabot.fr/eco-conception/La-consommation-energetique-du-numerique)
