@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/benoit-abot/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="[https://beabot.fr/portfolio/](https://beabot.netlify.app/portfolio)">
+  <a href="https://beabot.netlify.app/portfolio/">
     <img src="https://img.shields.io/badge/portfolio-green?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyBjbGlwLXJ1bGU9ImV2ZW5vZGQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgc3Ryb2tlLW1pdGVybGltaXQ9IjIiIHZpZXdCb3g9IjAgMCAyNjAgMjYwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Im0yMzkuODk5IDEzMS44NDljLTE1LjQ4NSA2MC4xNzctNTAuNjc2IDExMi40NTctMTEzLjExNyAxMTIuNDU3LTYyLjQ0IDAtMTEzLjExNi01MC4zODEtMTEzLjExNi0xMTIuNDU3czUxLjQ4MS0xMDIuMTYgMTEzLjExNi0xMTIuNDU2YzExOS4xNS0xOS45OTIgMTMwLjIxIDQ1Ljk4MiAxMTMuMTE3IDExMi40NTZ6bS0xMTAuMTQgNDEuNzM2LTcuOTAzLTMuNzVjLTExLjE2MS01LjI5OC0xNC44ODEtMTMuMTk1LTE0Ljg4MS0yMC4zOTMgMC0xMi43OTUgMTAuMjU1LTIyLjQ5MSAyMy4zMjctMjIuNDkxIDcuNDQgMCAxMy4wNzEgMS42IDE4LjcwMiA2LjQ5OCAzLjAxNiA3LjM5NyAzLjcyIDEyLjA5NSAzLjcyIDE5LjQ5Mi0uMTAxIDMzLjM4Ny0yNy4xNDggNTMuOTc5LTQ5LjM2OSA2MC4yNzdsLTMuMjE4LTEwLjY5NmMxNS4yMzktOC4xNjUgMjMuOTM1LTE4Ljg4MSAyOS42MjItMjguOTM3em0tMjIuODg1LTEwMC4yMTNjMC0xMi40OTUgMTAuMDU1LTIyLjk5MSAyMi44MjQtMjIuOTkxIDEyLjc3IDAgMjIuODI1IDEwLjM5NiAyMi44MjUgMjIuOTkxIDAgMTIuMjk1LTEwLjA1NSAyMi4yOTEtMjIuODI1IDIyLjI5MS0xMi43NjkgMC0yMi44MjQtOS45OTYtMjIuODI0LTIyLjI5MXoiIGZpbGw9Im5vbmUiIHN0cm9rZT0iI2ZmZiIgc3Ryb2tlLXdpZHRoPSIyMC41Ii8+PC9zdmc+&logoColor=white" alt="portfolio Badge"/>
   </a>
   <a href="https://twitter.com/AbotBenoit">
