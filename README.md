@@ -20,7 +20,7 @@ I'm a web designer and web developer from France (vanilla JS, VueJS and WordPres
 
 - 🔭 I’m currently working on a sustainable WordPress theme with full site editing support.
 - 😻 Somes tech i like : JavaScript (overall), JAMstack with Nuxt, and, of course, PHP with WordPress.
-- 📖 I'm currently learning React and italian...
+- 📖 I'm currently learning C and arabic...
 
 
 ### My latest blog posts (in french) ✍️
