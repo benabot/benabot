@@ -26,9 +26,10 @@ I'm a web designer and web developer from France (vanilla JS, VueJS and WordPres
 ### My latest blog posts (in french) ✍️
 
 <!-- BLOG-POST-LIST:START -->
+- [Typographie et éco-conception](https://beabot.fr/eco-conception/typographie-ecoconception)
+- [Les impacts environnementaux du numérique](https://beabot.fr/eco-conception/la-consommation-energetique-du-numerique)
 - [La petite boucle, éco-conception d&#39;un thème WordPress](https://beabot.fr/eco-conception/theme-wordpress-eco-conception)
-- [Les impacts environnementaux du numérique](https://beabot.fr/eco-conception/La-consommation-energetique-du-numerique)
-- [Qu’est-ce que l’éco-conception web](https://beabot.fr/eco-conception/L-eco-conception-web)
+- [Qu&#39;est-ce que l&#39;éco-conception web](https://beabot.fr/eco-conception/l-eco-conception-web)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
