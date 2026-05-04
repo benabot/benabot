@@ -26,10 +26,10 @@ I'm a web designer and web developer from France (vanilla JS, VueJS and WordPres
 ### My latest blog posts (in french) ✍️
 
 <!-- BLOG-POST-LIST:START -->
-- [Comment réduire le poids d&#39;un site web](https://beabot.fr/eco-conception/comment-reduire-le-poids-d-un-site-web/)
-- [Audit éco-conception web : par où commencer](https://beabot.fr/eco-conception/audit-eco-conception/)
-- [Images et éco-conception web](https://beabot.fr/eco-conception/images-eco-conception/)
-- [Typographie et éco-conception](https://beabot.fr/eco-conception/typographie-ecoconception/)
+- [Audit de site web : ce que j&#39;analyse et ce que ça coûte](https://beabot.fr/eco-conception/audit-site-web/)
+- [Refonte de site éco-conçu : méthode et budget](https://beabot.fr/eco-conception/refonte-site-eco-concu/)
+- [Développeur WordPress freelance à Lille : comment choisir ?](https://beabot.fr/eco-conception/wordpress-freelance-lille/)
+- [WordPress vs Nuxt pour un site vitrine éco-conçu](https://beabot.fr/eco-conception/wordpress-vs-nuxt/)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
